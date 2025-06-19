@@ -1,3 +1,15 @@
 [submodule "A1"]
 	path = A1
 	url = https://github.com/Pointer0111/assignment1-basics.git
+[submodule "A2"]
+	path = A2
+	url = https://github.com/stanford-cs336/assignment2-systems.git
+[submodule "A3"]
+	path = A3
+	url = https://github.com/stanford-cs336/assignment3-scaling.git
+[submodule "A4"]
+	path = A4
+	url = https://github.com/stanford-cs336/assignment4-data.git
+[submodule "A5"]
+	path = A5
+	url = https://github.com/stanford-cs336/assignment5-alignment.git
