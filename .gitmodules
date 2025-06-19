@@ -2,3 +2,6 @@
 	path = A1
 	url = https://github.com/Pointer0111/assignment1-basics.git
 
+[submodule "A2"]
+	path = A2
+	url = https://github.com/Pointer0111/assignment2-systems.git
