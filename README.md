@@ -1,4 +1,4 @@
-# CS336（已通过所有测试）
+# Stanford CS336: Language Modeling from Scratch（已通过所有测试）
 
 
 ## 💻 作业实现
@@ -14,6 +14,10 @@
 - **内容**: 分布式训练和系统优化
 - **技术栈**: Python, PyTorch, 分布式训练
 - **仓库**: [assignment2-systems](https://github.com/Pointer0111/assignment2-systems)
+
+
+### Assignment 3: Scaling
+- 需要专用API，非斯坦福学生做不了
 
 ### [Assignment 4: Data](assignments/assignment4-data/)
 - **主题**: 数据处理
