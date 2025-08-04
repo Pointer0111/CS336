@@ -1,0 +1,1 @@
+python cs336_systems/benchmark.py --mode forward --profile_memory
